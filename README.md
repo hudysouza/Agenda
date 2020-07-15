@@ -54,3 +54,9 @@ $ npm install node-sass
 $ npm install sass-loader
 ```
 
+### Instalando dependencias do package.json e rodando o projeto
+```bash
+  $ npm installl
+  $ npm run serve
+```
+
