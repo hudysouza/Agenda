@@ -24,6 +24,10 @@ Instruir como é feita a criação de uma Web API simples em ASP.NET Core para c
 ```bash
 $ dotnet new webapi -n Agenda --no-https
 ```
+#### Instalando o Entity Framework Tools
+```bash
+$ dotnet tool install --global dotnet-ef
+```
 #### Adicionando dependências:
 ```bash
 $ cd Agenda/
